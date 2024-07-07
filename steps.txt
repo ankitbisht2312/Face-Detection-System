@@ -1,0 +1,11 @@
+/*Ankit bisht*/
+
+STEPS TO TRAIN ALGORITHM
+
+Step 1: Gather a large dataset of facial images to enhance the accuracy of face detection.
+
+Step 2: Make them black and white
+
+Step 3: Train the algorithm to detect faces.
+
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
